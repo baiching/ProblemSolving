@@ -1,8 +1,5 @@
 package com.baiching.array;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class RomanToInteger {
     public int roman2int(String s) {
         int output = 0;
